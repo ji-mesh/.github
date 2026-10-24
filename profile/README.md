@@ -1,5 +1,5 @@
 # SarkGuard
-| [LinkedIn](https://www.linkedin.com/groups/15609033/) | Discord? |
+|  [LinkedIn-Page](https://www.linkedin.com/company/145352970) | [LinkedIn-Group](https://www.linkedin.com/groups/15609033/) | 
 
 Welcome! We are a dynamic group of Data Scientists, Machine Learning Engineers, MLOps professionals, and AI enthusiasts. Our mission is to advance the field of responsible artificial intelligence by creating and sharing publicly available research and open-source tools.
 
